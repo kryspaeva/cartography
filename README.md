@@ -1,1 +1,1 @@
-# cartography
+# Map Kyrgyzstan's environmental status 
